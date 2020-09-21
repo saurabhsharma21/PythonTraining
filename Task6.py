@@ -44,7 +44,25 @@ print(y)
 # 5. Learn More about Yield, next and Generators
 # 6. Write a program in Python using generators to reverse the string. Input String
 # = “Consultadd Training”
+# def reverse(x):
+#     revlen = len(x)
+#     for i in range(revlen - 1, -1, -1):
+#         yield x[i]
+
+
+# mystring = "ConsultADD Training"
+# for char in reverse(mystring):
+#     print(char)
+
 # 7. Write any example on decorators.
+# def addition(x):
+#     return x + 1
+
+# def multiply(y):
+#     multi = 5
+#     return y(multi)
+
+
 # 8. Learn about What is FRONT END and its Technologies and Tools
 # ● Make sure to mention at least 5 top notch technologies of Frontend.
 # ● Also mentioned the name of companies using those 5 technologies
